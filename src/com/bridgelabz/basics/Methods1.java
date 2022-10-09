@@ -1,8 +1,8 @@
 package com.bridgelabz.basics;
 
-// Methods - Static and Non-Static
+// Methods - Different return types and calling process
 
-public class Methods {
+public class Methods1 {
 
     static void m1Void(){ // Static method of void type(return nothing)
         System.out.println("Static Methods of void type");
@@ -34,10 +34,4 @@ public class Methods {
         System.out.println(d);
     }
 }
-class Methods2{
-    public static void main(String[] args) {
-        Methods.m1Void();
 
-    }
-
-}
