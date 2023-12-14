@@ -1,4 +1,4 @@
-package com.workspace.collection;
+package com.workspace.collection_framework;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

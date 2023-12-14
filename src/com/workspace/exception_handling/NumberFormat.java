@@ -1,4 +1,4 @@
-package com.workspace.exception;
+package com.workspace.exception_handling;
 
 public class NumberFormat {
     public static void main(String[] args) {

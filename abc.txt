@@ -1,0 +1,5 @@
+d100
+true
+c
+125.64
+Prince

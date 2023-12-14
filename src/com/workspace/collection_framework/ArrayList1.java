@@ -1,7 +1,6 @@
-package com.workspace.collection;
+package com.workspace.collection_framework;
 
 import java.util.ArrayList;
-import java.util.Queue;
 
 public class ArrayList1 {
 

@@ -1,4 +1,4 @@
-package com.workspace.collection;
+package com.workspace.collection_framework;
 
 // Queue is an interface, we cannot create an object
 

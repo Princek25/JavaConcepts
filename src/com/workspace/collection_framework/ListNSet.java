@@ -1,4 +1,4 @@
-package com.workspace.collection;
+package com.workspace.collection_framework;
 
 // Difference between List and Set -
 // 1. list follow insertion order but set does not follow insertion order.
