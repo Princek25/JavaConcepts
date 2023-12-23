@@ -1,6 +1,6 @@
 package com.workspace.array;
 
-public class LargeElement {
+public class LargestElement {
     public static void main(String[] args) {
         int[] a = {10, 23, 12, 26, 53, 45};
         int max = a[0];
