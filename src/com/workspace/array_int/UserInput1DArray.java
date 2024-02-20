@@ -1,4 +1,4 @@
-package com.workspace.int_arrays;
+package com.workspace.array_int;
 
 import java.util.Scanner;
 

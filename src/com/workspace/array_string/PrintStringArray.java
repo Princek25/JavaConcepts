@@ -1,4 +1,4 @@
-package com.workspace.string_basics;
+package com.workspace.array_string;
 
 public class PrintStringArray {
     public static void main(String[] args) {

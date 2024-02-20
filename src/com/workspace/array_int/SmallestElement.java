@@ -1,4 +1,4 @@
-package com.workspace.int_arrays;
+package com.workspace.array_int;
 
 public class SmallestElement {
     public static void main(String[] args) {
