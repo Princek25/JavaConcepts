@@ -1,22 +1,6 @@
 package com.workspace.pattern;
 
-public class Pattern2 {
-    public static void pattern1(int n){
-        for (int row = 1; row <= n; row++){
-            // for every row run the col
-            for (int col = 1; col <= row; col++){
-                System.out.print("* ");
-            }
-            // when 1 row is printed we need to add a new line
-            System.out.println();
-        }
-    }
-
-    public static void main(String[] args) {
-        pattern1(5);
-    }
-}
-/*
+/* Right half pyramid
 
  *
  * *
@@ -25,3 +9,19 @@ public class Pattern2 {
  * * * * *
 
  */
+public class Pattern2 {
+    public static void pyramid1(int n){
+        for (int i = 1; i <= n; i++){
+            // for every row run the col
+            for (int j = 1; j <= i; j++){
+                System.out.print("* ");
+            }
+            // when 1 row is printed we need to add a new line
+            System.out.println();
+        }
+    }
+
+    public static void main(String[] args) {
+        pyramid1(5);
+    }
+}

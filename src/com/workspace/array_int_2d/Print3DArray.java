@@ -1,4 +1,4 @@
-package com.workspace.array_int;
+package com.workspace.array_int_2d;
 
 public class Print3DArray {
 

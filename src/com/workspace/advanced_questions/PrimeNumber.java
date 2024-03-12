@@ -1,4 +1,4 @@
-package com.workspace.basic_questions;
+package com.workspace.advanced_questions;
 
 public class PrimeNumber {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.workspace.basic_questions;
+package com.workspace.advanced_questions;
 
 // Armstrong number = 0,1,153,370,371,407,1634
 // 153 = 1^3 + 5^3 + 3^3
